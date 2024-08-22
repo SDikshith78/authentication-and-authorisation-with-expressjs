@@ -27,7 +27,10 @@ In technical terms, implementing a delete functionality only after authenticatio
 
 -----  NOTE  ------
 1. First you have to register the user account, once you created then either admin or user himself can delete the account.
-2. Remember that when you try to delete the user account either as an admin or user yourself you should give exact same username along with same lower and upper       cases we enterted while registering.
+2. Remember that when you try to delete the user account either as an admin or user yourself you should give exact same username along with same lower and upper cases we enterted while registering.
+
+Here is a video to show how it works------
+[<a href="">Video</a>](https://github.com/user-attachments/assets/d782bda6-7a30-4587-a4a6-2a1b30180817)
 
 
 
